@@ -1,1 +1,4 @@
-Dell Optiplex 3070 Mini PC EFI Github Repository
+macOS  Sonoma 14.7 (23H124) on DELL-OptiPlex-3070-MiniPC
+
+Configuration
+
